@@ -1,0 +1,29 @@
+{
+    "countries": {
+        "br": {
+            "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+            "aliases": [
+                "brazil",
+                "brasil"
+            ]
+        },
+        "nl": {
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+            "aliases": [
+                "netherlands",
+                "the netherlands",
+                "nederland"
+            ]
+        },
+        "be": {
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+            "aliases": [
+                "belgium",
+                "belgie",
+                "belgië",
+                "belgique",
+                "belgien"
+            ]
+        }
+    }
+}
