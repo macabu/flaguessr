@@ -13,8 +13,9 @@
 <style>
     .image {
 		text-indent: -9999px;
-  		width:  30%;
-  		height: 10rem;
+		height: 70%;
+		width: 100%;
+		object-fit: contain;
 	}
 
 	.flag {
